@@ -1,0 +1,10 @@
+Package: flyfuns
+Type: Package
+Title: fly project common functions
+Version: 1.1
+Build Time: 2016-08-30 13:23:06
+Author: Yunlong
+Contact: nyunlong AT sfu.ca
+DESCRIPTION: no discription
+Url: https://github.com/YunlongNie/flyfuns
+RoxygenNote: 5.0.1
